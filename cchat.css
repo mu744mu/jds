@@ -1,0 +1,226 @@
+@-webkit-keyframes mymove {
+	from
+	{
+		color:red
+	}
+	
+	to
+	{
+		color:#FFF
+	}
+}
+
+@keyframes mymove {
+	from
+	{
+		color:red
+	}
+	
+	to
+	{
+		color:#FFF
+	}
+
+
+#des4:hover {
+    color: #4d1f2d!important;
+    text-shadow: 0 0 5px #fff!important;
+}
+
+.label-primary, .btn-primary {
+    font-family: 'El Messiri',FontAwesome!important;
+    font-size: 14px!important;
+    padding: 10px 0px 2!important;
+}
+
+.label.tc.border.btn.fl, .label.tc.border.btn.fl {
+    border: 2px solid #616161!important;
+    font-family: 'El Messiri',FontAwesome!important;
+    //font-size: 14px!important;
+}
+
+label.fl.label.loginstat.label-success {
+    font-family: 'El Messiri',FontAwesome;
+    display: inline-flex;
+    background-color: #9c2222!important;
+    float: left!important;
+    border-radius: 24px!important;
+    border: 1px solid #ffffff!important;
+
+
+
+    
+}
+
+
+//.label-info {
+    border-radius: 7px!important;
+    font-family: 'El Messiri',FontAwesome;
+    font-size: 14px!important;
+    background-color: #9C2222!important;
+    border: 1px solid #ffffff!important;
+}
+
+.s1.fa.fa-user.label.badgex.label-as-badge.label-success {
+    height: 20px;
+    border-radius: 7px!important;
+    font-family: 'El Messiri',FontAwesome;
+    font-size: 14px!important;
+    background-color: #4c4b4b!important;
+    border: 1px solid #ffffff!important;
+}
+
+button.btn.fr.btn-success.fa.fa-refresh {
+    background-color: #4c4b4b!important;
+    background-image: none;
+    margin-top: 1px!important;
+    border: 1px solid #ffffff!important;
+
+}
+
+div#tlogins img.fr.co {
+    display: inline;
+    margin-left: 3px;
+    height: 10px;
+    position: static;
+    border-radius: 5px!important;
+}
+
+div#tlogins .fl.mini.u-msg {
+    margin-top: 7px!important;
+    border-radius: 8px!important;
+}
+
+div#tlogins span.corner.u-topic.dots {
+    background: #cbcbcb;
+    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 25%,rgba(255,255,255,.2) 50%,rgba(255, 255, 255, 0) 75%,transparent 100%,transparent)!important;
+    float: left;
+    border-radius: 24px 24px 24px 3px!important;
+    max-width: 100%!important;
+}
+
+
+
+div#tlogins ::-webkit-scrollbar {
+    width: 5px;
+    height: 10px
+}
+
+div#tlogins ::-webkit-scrollbar-button {
+    width: 5px;
+    height: 5px
+}
+
+div#tlogins ::-webkit-scrollbar-thumb {
+    background: #616161;
+    border: 71px none #fff;
+    border-radius: 31px;
+    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,#9c2222 50%,rgba(255,255,255,.2) 50%,rgb(156, 34, 34) 75%,transparent 75%,#9c2222)!important;
+}
+
+div#tlogins ::-webkit-scrollbar-thumb:hover {
+    background: #E3E3E3
+}
+
+div#tlogins ::-webkit-scrollbar-thumb:active {
+    background: #616161
+}
+
+div#tlogins ::-webkit-scrollbar-track {
+    background: #616161;
+    border: 65px none #fff;
+    border-radius: 34px
+}
+
+div#tlogins ::-webkit-scrollbar-track:hover {
+    background: #808080
+}
+
+div#tlogins ::-webkit-scrollbar-track:active {
+    background: #808080
+}
+
+div#tlogins ::-webkit-scrollbar-corner {
+    background: transparent
+}
+
+
+.fr.co {
+    border-radius: 5px!important;
+    height: 10px;
+    width: 16px!important;
+
+}
+
+.btn-default {
+    color: #ac1e1e;
+}
+
+.btn-default:hover {
+    color: #4d1f2d!important;
+
+}
+
+//button.btn.fa.fa-youtube-play {
+    width: 100%;
+    text-align: -webkit-center;
+    background-color: #a71c1c;
+    color: white;
+    font-family: 'El Messiri',FontAwesome;
+    padding-top: 1px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 0px;
+    MARGIN-TOP: 2PX;
+}
+//button.btn.fa.fa-image {
+    width: 80%;
+    text-align: -webkit-center;
+    background-color: #a71c1c;
+    color: white;
+    font-family: 'El Messiri',FontAwesome;
+    padding-top: 1px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 0px;
+    MARGIN-TOP: 2PX;
+    height: 24px!important;
+}
+//button.btn.fa.fa-youtube img {
+    width: 80%!important;
+    height: 70px!important;
+}
+button.btn.fa.fa-youtube {
+    background-color: none;
+    color: #a71c1c;
+}
+//.btn.fa.fa-image:focus {
+
+    border-color: #E3E3E3;
+
+
+    border-radius: 10px 10px 10px 10px;
+}
+
+//div#users img.fl.ustat {
+    border-radius: 3px 37px 37px 37px!important;
+    margin: 0;
+    margin-right: -38.5px;
+    margin-top: -1px;
+    width: 39px!important;
+    height: 39px!important;
+}
+
+.u-pic {
+    border-radius: 24px!important;
+    border-Bottom: 100% solid 1px #FFFFFF!important;
+}
+
+
+.room.borderg.hand.nosel.fl img.fl.u-pic {
+    margin: 1px 0;
+    border-Right: 3px solid #616161;
+    border-Left: 3px solid #616161;
+    border-Top: 1px solid #616161;
+    border-Bottom: 100% solid #FFFFFF;
+    padding-Top: 3px;
+    border-Radius: 5px;
+}
